@@ -16,6 +16,8 @@
 
 package com.example.android.aboutme
 
+import android.provider.ContactsContract
 
-data class MyName(var name: String = "", var nickname: String = "")
+
+data class MyName(var name: String = "", var nickname: String = "",var age: Number = 0,var birthday:String = "",var course:String="", var phone_number:ContactsContract.CommonDataKinds.Phone = 0,var email:String = "",var dream:String="",var crush:String = "",var message:String = "")
 

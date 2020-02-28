@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Feb 28 14:19:15 PHT 2020
+0.baseType=DIRECTORY
+0.base=/home/user/Desktop/android-kotlin-fundamentals-apps/AboutMeDataBinding/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

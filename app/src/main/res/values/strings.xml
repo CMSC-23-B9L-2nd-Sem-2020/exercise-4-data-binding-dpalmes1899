@@ -1,0 +1,39 @@
+<!-- Copyright 2018 Google Inc.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. -->
+
+<resources>
+    <string name="app_name">About Me</string>
+    <!-- Break paragraphs without extra spacing, by putting \n at the beginning of next line.-->
+    <string name="bio">Test\n</string>
+    <string name="Enter_name">Enter Name</string>
+    <string name="Enter_nickname">Enter Nickname</string>
+    <string name="Enter_age">Enter Age</string>
+    <string name="Enter_phone">Enter Phone number</string>
+    <string name="Enter_birthday">Enter Birthday</string>
+    <string name="Enter_dream">Enter Dream</string>
+    <string name="Enter_crush">Enter Name of Crush</string>
+    <string name="Enter_email">Enter Email Address</string>
+
+    <string name="Enter_course">Enter Course</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+    <string name="Email">What is your Email Address? </string>
+    <string name="Course">What is your Course?</string>
+    <string name="Phone">Phone Number</string>
+    <string name="Dream">What is your ultimate dream?</string>
+    <string name="Birthday">When is your Birthday?</string>
+    <string name="Crush">Who is your secret crush?</string>
+    <string name="Message">What is your message for me?</string>
+    <string name="Nickname">Nickname</string>
+    <string name="name">Aleks Haecky</string>
+</resources>
